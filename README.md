@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dev Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FA8gJ&psig=AOvVaw31k8wnLjRxHssoLDFirJMZ&ust=1675327510995000&
-source=images&cd=vfe&ved=0CA8QjRxqFwoTCIja5Lv38_wCFQAAAAAdAAAAABBF">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FA8gJ&psig=AOvVaw31k8wnLjRxHssoLDFirJMZ&ust=1675327510995000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPC52bn_8_wCFQAAAAAdAAAAABAD">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8840hima&label=Profile%20views&color=0e75b6&style=flat" alt="8840hima" /> </p>
 
 - 🌱 I’m currently learning **Tailwind CSS**
